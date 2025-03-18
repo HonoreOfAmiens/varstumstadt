@@ -1,0 +1,13 @@
+characters = {
+	CAE_Thasilios_III = {
+    		name = "Ðasilios III"
+    		portraits = {
+        		civilian = {
+            			large = GFX_portrait_CAE_Thasilios_III
+        		}
+    		}
+    		country_leader = {
+		        ideology = despotism
+		}
+	}
+}

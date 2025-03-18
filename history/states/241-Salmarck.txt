@@ -1,0 +1,17 @@
+state={
+	id=241
+	name="Salmarck"
+	provinces={
+		1742 5604 13878 
+	}
+	buildings_max_level_factor=1.000
+        manpower=13560
+        state_category = town
+	history = {
+		owner = WHI
+		add_core_of = WHI
+		victory_points = { 
+			13878 5 
+		}
+	}
+}

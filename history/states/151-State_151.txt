@@ -1,0 +1,14 @@
+state={
+	id=151
+	name="STATE_151"
+	provinces={
+		562 1077 1902 2702 2839 3211 3229 3529 4026 4398 4450 4767 5532 5932 6184 6241 6341 6361 6444 6562 7381 7869 8384 8528 8929 9693 10574 12645 12674 12710 12750 12762 12764 12804 12862 12874 12922 12933 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+		owner = FEN
+		add_core_of = FEN
+	}
+}

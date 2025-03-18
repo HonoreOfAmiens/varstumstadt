@@ -1,0 +1,14 @@
+state={
+	id=16
+	name="STATE_16"
+	provinces={
+		7007 7635 7975 9811 10726 11370 11397 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+		owner = BHD
+		add_core_of = BHD
+	}
+}

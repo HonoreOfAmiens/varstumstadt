@@ -1,0 +1,16 @@
+
+state={
+	id=83
+	name="STATE_83"
+	provinces={
+		3098 5270 5284 6367 8020 9756 11873 11892 11911 11975 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+	history = {
+		owner = TSM
+		add_core_of = TSM
+	}
+}

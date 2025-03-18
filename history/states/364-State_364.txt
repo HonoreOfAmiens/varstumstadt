@@ -1,0 +1,14 @@
+state={
+	id=364
+	name="STATE_364"
+	provinces={
+		2165 6678 15233 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+		owner = MOS
+		add_core_of = MOS
+	}
+}

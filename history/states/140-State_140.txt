@@ -1,0 +1,16 @@
+
+state={
+	id=140
+	name="STATE_140"
+	provinces={
+		559 1440 2019 3412 3417 5867 7203 8925 9231 9710 12468 12487 12506 12536 12547 12560 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+	history = {
+		owner = CAE
+		add_core_of = CAE
+	}
+}

@@ -1,0 +1,13 @@
+characters = {
+	WHI_Aurelius_II = {
+    		name = "Aurelius II von Coronastadt"
+    		portraits = {
+        		civilian = {
+            			large = GFX_portrait_large_Aurelius_II
+        		}
+    		}
+    		country_leader = {
+		        ideology = despotism
+		}
+	}
+}

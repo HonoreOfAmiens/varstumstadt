@@ -1,0 +1,14 @@
+state={
+	id=181
+	name="STATE_181"
+	provinces={
+		122 595 1158 2026 2346 2451 2787 2854 3687 4030 4308 4425 4751 5156 7183 7331 9803 10304 10510 10781 13151 13157 13180 13202 13231 13235 13241 13248 13279 13287 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+		owner = GRZ
+		add_core_of = GRZ
+	}
+}

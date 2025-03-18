@@ -1,0 +1,13 @@
+characters = {
+	FRI_Sigislov_Slyatyvich = {
+    		name = "Sigislov Slyatyvich"
+    		portraits = {
+        		civilian = {
+            			large = GFX_portrait_FRI_Sigislov_Slyatyvich
+        		}
+    		}
+    		country_leader = {
+		        ideology = despotism
+		}
+	}
+}

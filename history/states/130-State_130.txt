@@ -1,0 +1,14 @@
+state={
+	id=130
+	name="STATE_130"
+	provinces={
+		7350 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+		owner = FEN
+		add_core_of = FEN
+	}
+}

@@ -1,0 +1,19 @@
+
+state={
+	id=254
+	name="STATE_254"
+
+	history={
+		owner = WSR
+		add_core_of = WSR
+
+	}
+
+	provinces={
+		881 1167 1923 2464 3253 3295 4536 5343 5586 6133 6328 8304 8997 9212 9681 10020 10351 13961 13979 14028 14031 14064 14070 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

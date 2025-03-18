@@ -1,0 +1,16 @@
+
+state={
+	id=87
+	name="STATE_87"
+	provinces={
+		2852 3820 4478 6576 8348 12012 12016 12041 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+	history = {
+		owner = BHD
+		add_core_of = BHD
+	}
+}

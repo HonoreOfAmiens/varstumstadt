@@ -1,0 +1,10 @@
+music_station = "Vastumstadt_OST"
+music = {
+	song = "Vastumstadt"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}

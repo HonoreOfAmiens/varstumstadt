@@ -1,0 +1,15 @@
+state={
+	id=84
+	name="STATE_84"
+	provinces={
+		8 560 584 1176 1820 2362 2504 3059 3281 3956 4405 4731 5062 5252 6377 6480 6613 6646 7370 7640 8211 8271 8439 8505 8771 9161 9301 9404 9787 10355 10370 10988 11006 11116 11172 11987 12024 12037 12078 12100 12104 12105 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	impassable = yes
+	history = {
+		owner = BHD
+		add_core_of = BHD
+	}
+}

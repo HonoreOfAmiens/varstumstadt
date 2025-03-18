@@ -1,0 +1,16 @@
+
+state={
+	id=268
+	name="STATE_268"
+	provinces={
+		1720 2328 2918 4158 6286 9522 10472 11152 11215 12975 13057 13069 13073 13109 13144 13168 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+	history = {
+		owner = CSC
+		add_core_of = CSC
+	}
+}

@@ -1,0 +1,14 @@
+state={
+	id=125
+	name="STATE_125"
+	provinces={
+		432 452 1172 2188 2435 2610 2853 3310 4401 4444 5404 6265 6734 7037 7658 9565 9609 9726 10201 12316 12328 12342 12367 12374 12391 12414 12430 12457 12486 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+		owner = FTS
+		add_core_of = FTS
+	}
+}

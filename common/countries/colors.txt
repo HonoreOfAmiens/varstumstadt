@@ -1,0 +1,84 @@
+WSR = {
+	color = rgb { 10  95  35 }
+	color_ui = rgb { 10  95  35 }
+}
+TST = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 74 147 255 }
+}
+TEN = {
+	color = rgb { 192  176  69 }
+	color_ui = rgb { 200  200  0 }
+}
+FRI = {
+	color = rgb { 15  65  35 }
+	color_ui = rgb { 15  65  35 }
+}
+WHI = {
+	color = rgb { 255  255 255 }
+	color_ui = rgb { 200  200 200 }
+}
+ARC = {
+	color = rgb { 175  175 175 }
+	color_ui = rgb { 200  200 200 }
+}
+MER = {
+	color = rgb { 0  51 102 }
+	color_ui = rgb { 0  51 102 }
+}
+NLM = {
+	color = rgb { 85  50 30 }
+	color_ui = rgb { 85  50 30 }
+}
+MOS = {
+	color = rgb { 70  115  145 }
+	color_ui = rgb { 70  115  145 }
+}
+GRZ = {
+	color = rgb { 105  45  20 }
+	color_ui = rgb { 105  45  20 }
+}
+CSC = {
+	color = rgb { 122  120  55 }
+	color_ui = rgb { 122  120  55 }
+}
+RDM = {
+	color = rgb { 155  60  135 }
+	color_ui = rgb { 155  60  135 }
+}
+FTS = {
+	color = rgb { 130  125  80 }
+	color_ui = rgb { 130  125  80 }
+}
+BHD = {	
+	color = rgb { 61  125  180 }
+	color_ui = rgb { 61  125  180 }
+}
+TOR = {	
+	color = rgb { 0  76  153 }
+	color_ui = rgb { 0  76  153 }
+}
+CAE = {	
+	color = rgb { 130  65  105 }
+	color_ui = rgb { 130  65  105 }
+}
+TSM = {	
+	color = rgb { 150  70  65 }
+	color_ui = rgb { 150  70  65 }
+}
+VER = {	
+	color = rgb { 230  195  50 }
+	color_ui = rgb { 230  195  50 }
+}
+SYL = {
+	color = rgb { 135  75  75 }
+	color_ui = rgb { 135  75  70 }
+}
+MST = {
+	color = rgb { 60  110  125 }
+	color_ui = rgb { 60  110  125 }
+}
+FEN = {
+	color = rgb { 87  132  99 }
+	color_ui = rgb { 87  132  99 }
+}

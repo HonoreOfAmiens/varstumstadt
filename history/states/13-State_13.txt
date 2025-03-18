@@ -1,0 +1,16 @@
+
+state={
+	id=13
+	name="STATE_13"
+	provinces={
+		149 210 629 1116 1435 1982 1992 2899 3119 3176 3646 3816 3878 4865 5096 5161 6143 6789 6960 7004 7232 8060 8393 8788 8914 9007 9101 10141 10360 11253 11254 11289 11322 11350 11364 11378 11386 11400 11418 11437 11450 11460 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+	history = {
+		owner = CAE
+		add_core_of = CAE
+	}
+}

@@ -1,0 +1,16 @@
+
+state={
+	id=362
+	name="STATE_362"
+	provinces={
+		7703 15259 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+	history = {
+		owner = MOS
+		add_core_of = MOS
+	}
+}

@@ -1,0 +1,14 @@
+state={
+	id=19
+	name="STATE_19"
+	provinces={
+		1109 1882 1928 2441 2687 2816 2819 4000 4189 4477 4782 5009 5018 5769 6594 6703 7854 8371 8749 9278 9799 11451 11479 11487 11496 11500 11508 11518 11520 11523 11526 11529 11551 11556 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+		owner = TSM
+		add_core_of = TSM
+	}
+}

@@ -1,0 +1,16 @@
+
+state={
+	id=231
+	name="Vorynthia"
+	provinces={
+		856 1161 1425 2241 3204 3451 3613 3755 4112 4215 4588 5120 5535 6077 6470 6502 6578 7038 7267 8508 8591 8964 9250 9252 9492 10165 13777 13806 13810 13812 13842 13855 13884 13892 13895 13912 13962 13973 
+	}
+	manpower=8552500
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+	history = {
+		owner = ARC
+		add_core_of = ARC
+	}
+}

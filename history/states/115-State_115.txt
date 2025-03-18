@@ -1,0 +1,14 @@
+state={
+	id=115
+	name="STATE_115"
+	provinces={
+		63 713 1093 1553 1584 1693 2104 3010 4258 4270 4530 6049 6927 7032 7862 8086 9254 9820 10176 12233 12287 12295 12302 12318 12358 12371 12417 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+		owner = NLM
+		add_core_of = NLM
+	}
+}

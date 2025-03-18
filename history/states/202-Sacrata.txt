@@ -1,0 +1,14 @@
+state={
+	id=202
+	name="Sacrata"
+	provinces={
+		4426 
+	}
+	buildings_max_level_factor=1.000
+        manpower=12400100
+        state_category = town
+	history = {
+		owner = MST
+		add_core_of = MST
+	}
+}

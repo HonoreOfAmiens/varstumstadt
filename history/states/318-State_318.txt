@@ -1,0 +1,14 @@
+state={
+	id=318
+	name="STATE_318"
+	provinces={
+		424 1003 1577 2261 2759 3315 3372 3402 3601 3767 3872 3945 4560 4636 5326 5488 5836 6606 7134 7246 7898 8412 9284 9465 9467 9828 10093 10587 14353 14426 14427 14472 14474 14505 14510 14511 14517 14548 14561 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+		owner = TEN
+		add_core_of = TEN
+	}
+}

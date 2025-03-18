@@ -1,0 +1,17 @@
+state={
+	id=304
+	name="Regalium"
+	provinces={
+		15505 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1047000
+        state_category = town
+	history = {
+		owner = WHI
+		add_core_of = WHI
+		victory_points = { 
+			15505 35 
+		}
+	}
+}

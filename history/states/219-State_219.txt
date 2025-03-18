@@ -1,0 +1,14 @@
+state={
+	id=219
+	name="STATE_219"
+	provinces={
+		383 649 709 1735 3301 10094 11021 13684 13689 13721 13730 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+		owner = FRI
+		add_core_of = FRI
+	}
+}

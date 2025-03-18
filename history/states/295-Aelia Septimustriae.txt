@@ -1,0 +1,19 @@
+
+state={
+	id=295
+	name="Aelia Septimustriae"
+	provinces={
+		1480 
+	}
+	manpower=45611700
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+	history = {
+		owner = WHI
+		add_core_of = WHI
+		victory_points = { 
+			1480 48 
+		}
+	}
+}

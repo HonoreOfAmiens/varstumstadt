@@ -1,0 +1,14 @@
+state={
+	id=224
+	name="Callindria"
+	provinces={
+		865 1771 2140 4028 4287 9592 9867 10891 13756 13765 13778 
+	}
+	buildings_max_level_factor=1.000
+        manpower=13800000
+        state_category = town
+	history = {
+		owner = ARC
+		add_core_of = ARC
+	}
+}

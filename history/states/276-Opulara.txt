@@ -1,0 +1,17 @@
+state={
+	id=276
+	name="Opulara"
+	provinces={
+		1014 1544 1610 2770 4373 5032 7601 11201 14103 14110 14115 14139 
+	}
+	buildings_max_level_factor=1.000
+        manpower=55355000
+        state_category = metropolis
+	history = {
+		owner = WHI
+		add_core_of = WHI
+		victory_points = {
+			5032 38
+		}
+	}
+}

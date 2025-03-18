@@ -1,0 +1,17 @@
+state={
+	id=270
+	name="Marblikia"
+	provinces={
+		10417 
+	}
+	buildings_max_level_factor=1.000
+        manpower=158000
+        state_category = rural
+	history = {
+		owner = WHI
+		add_core_of = WHI
+		victory_points = {
+			10417 3
+		}
+	}
+}

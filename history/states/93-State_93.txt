@@ -1,0 +1,14 @@
+state={
+	id=93
+	name="STATE_93"
+	provinces={
+		197 341 347 653 1200 1213 2458 2760 3435 4357 4654 4852 4931 4995 5464 6066 6071 6827 7796 7901 8426 8469 9704 12044 12048 12061 12065 12073 12074 12092 12093 12101 12122 12123 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+		owner = TSM
+		add_core_of = TSM
+	}
+}

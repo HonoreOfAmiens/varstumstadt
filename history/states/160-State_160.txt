@@ -1,0 +1,14 @@
+state={
+	id=160
+	name="STATE_160"
+	provinces={
+		224 327 2549 2782 3197 4015 8786 10765 10904 12827 12904 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+		owner = CAE
+		add_core_of = CAE
+	}
+}

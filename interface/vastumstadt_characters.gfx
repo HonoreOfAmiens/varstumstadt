@@ -1,0 +1,42 @@
+spriteTypes = {
+    spriteType = {
+        name = GFX_portrait_CAE_Thasilios_III
+        texturefile = gfx/leaders/CAE/portrait_CAE_Thasilios_III.dds
+    }
+    spriteType = {
+        name = GFX_portrait_FRI_Sigislov_Slyatyvich
+        texturefile = gfx/leaders/FRI/portrait_FRI_Sigislov_Slyatyvich.dds
+    }
+    spriteType = {
+        name = GFX_portrait_large_Aurelius_II
+        texturefile = gfx/leaders/WHI/portrait_large_Aurelius_II.dds
+    }
+    spriteType = {
+        name = GFX_
+        texturefile = gfx/leaders/WHI/portrait.dds
+    }
+    spriteType = {
+        name = GFX_
+        texturefile = gfx/leaders/WHI/portrait.dds
+    }
+    spriteType = {
+        name = GFX_
+        texturefile = gfx/leaders/WHI/portrait.dds
+    }
+    spriteType = {
+        name = GFX_
+        texturefile = gfx/leaders/WHI/portrait.dds
+    }
+    spriteType = {
+        name = GFX_
+        texturefile = gfx/leaders/WHI/portrait.dds
+    }
+    spriteType = {
+        name = GFX_
+        texturefile = gfx/leaders/WHI/portrait.dds
+    }
+    spriteType = {
+        name = GFX_
+        texturefile = gfx/leaders/WHI/portrait.dds
+    }
+}

@@ -1,0 +1,14 @@
+state={
+	id=359
+	name="STATE_359"
+	provinces={
+		852 1060 1268 1330 1752 2193 4050 5544 6411 7819 8075 10997 14965 14966 14975 14984 15010 15070 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+		owner = MOS
+		add_core_of = MOS
+	}
+}

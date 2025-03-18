@@ -1,0 +1,16 @@
+
+state={
+	id=170
+	name="Estmertsch"
+	provinces={
+		13166 44 101 1067 1234 2993 3140 4151 4458 4508 6311 7327 7888 8402 8894 8991 9037 9603 13167 13222 13232 13270 13271 13302 13307 
+	}
+	manpower=903210
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+	history = {
+		owner = CSC
+		add_core_of = CSC
+	}
+}

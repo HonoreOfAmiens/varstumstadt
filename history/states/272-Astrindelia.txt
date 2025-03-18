@@ -1,0 +1,16 @@
+
+state={
+	id=272
+	name="Astrindelia"
+	provinces={
+		71 1359 3185 4744 5817 5912 6836 9097 9441 9934 11205 14002 14022 14030 14032 14035 14046 14058 14067 14079 14102 
+	}
+	manpower=67344700
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+	history = {
+		owner = ARC
+		add_core_of = ARC
+	}
+}

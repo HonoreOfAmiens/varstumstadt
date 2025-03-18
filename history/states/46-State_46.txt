@@ -1,0 +1,16 @@
+
+state={
+	id=46
+	name="STATE_46"
+	provinces={
+		171 741 2368 3439 3593 3722 4574 5837 7478 7886 8153 8539 8731 9794 9904 10656 11884 11948 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+	history = {
+		owner = BHD
+		add_core_of = BHD
+	}
+}

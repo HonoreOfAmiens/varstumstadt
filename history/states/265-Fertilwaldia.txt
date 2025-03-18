@@ -1,0 +1,20 @@
+state={
+	id=265
+	name="Fertilwaldia"
+	provinces={
+		3942 5680 8970 9858 14061 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1020344
+        state_category = city
+	history = {
+		owner = WHI
+		add_core_of = WHI
+		victory_points = {
+			8970 6
+		}
+		victory_points = {
+			5680 10
+		}
+	}
+}

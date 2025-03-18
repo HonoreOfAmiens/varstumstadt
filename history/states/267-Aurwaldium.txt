@@ -1,0 +1,20 @@
+state={
+	id=267
+	name="Aurwaldium"
+	provinces={
+		3822 5401 6699 14065 14090  
+	}
+	buildings_max_level_factor=1.000
+        manpower=10508000
+        state_category = town
+	history = {
+		owner = WHI
+		add_core_of = WHI
+		victory_points = {
+			14090 23
+		}
+		victory_points = {
+			6656 10
+		}
+	}
+}

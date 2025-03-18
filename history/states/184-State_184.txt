@@ -1,0 +1,14 @@
+state={
+	id=184
+	name="Porodigrad"
+	provinces={
+		15214
+	}
+	buildings_max_level_factor=1.000
+        manpower=24535500
+        state_category = city
+	history = {
+		owner = WSR
+		add_core_of = WSR
+	}
+}

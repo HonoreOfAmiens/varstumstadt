@@ -1,0 +1,16 @@
+
+state={
+	id=142
+	name="STATE_142"
+	provinces={
+		80 849 1466 1557 1886 2096 2391 2894 2904 2946 3283 3552 3675 3787 4313 4542 4549 4618 5444 5891 6131 6984 8337 8700 8873 9211 10084 10300 10579 10748 11039 12608 12673 12709 12720 12749 12776 12812 12829 12832 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+	history = {
+		owner = VER
+		add_core_of = VER
+	}
+}

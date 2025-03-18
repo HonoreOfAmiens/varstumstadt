@@ -1,0 +1,29 @@
+state={
+	id=282
+	name="Ivoria"
+	provinces={
+		5538 10091 14130 14141 14155 14108
+	}
+	buildings_max_level_factor=1.000
+        manpower=175547000
+        state_category = megalopolis
+	history = {
+		owner = WHI
+		add_core_of = WHI
+		victory_points = { 
+			5538 50 
+		}
+		victory_points = { 
+			10091 40 
+		}
+		victory_points = { 
+			14130 35 
+		}
+		victory_points = { 
+			14141 25 
+		}
+		victory_points = { 
+			14155 18 
+		}
+	}
+}

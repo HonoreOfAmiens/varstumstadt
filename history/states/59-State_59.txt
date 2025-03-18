@@ -1,0 +1,14 @@
+state={
+	id=59
+	name="STATE_59"
+	provinces={
+		672 3141 6353 8961 10677 11817 11820 11852 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+		owner = TSM
+		add_core_of = TSM
+	}
+}

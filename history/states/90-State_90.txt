@@ -1,0 +1,14 @@
+state={
+	id=90
+	name="STATE_90"
+	provinces={
+		3664 5582 7490 12042 12066 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+		owner = BHD
+		add_core_of = BHD
+	}
+}

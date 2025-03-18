@@ -1,0 +1,17 @@
+
+state={
+	id=121
+	name="STATE_121"
+	provinces={
+		1563 1830 1906 4278 4299 6807 7356 10313 12296 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+	history = {
+		owner = FTS
+		add_core_of = FTS
+	}
+
+}

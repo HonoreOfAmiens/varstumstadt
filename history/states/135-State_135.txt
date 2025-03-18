@@ -1,0 +1,14 @@
+state={
+	id=135
+	name="STATE_135"
+	provinces={
+		281 551 889 1980 2548 2727 2991 3470 3739 5471 5620 5741 6755 7142 7178 7207 8458 8468 8962 8973 9246 9312 9541 9705 9812 10859 11029 11169 12443 12491 12492 12524 12549 12562 12581 12621 12633 12652 12734 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+		owner = MER
+		add_core_of = MER
+	}
+}

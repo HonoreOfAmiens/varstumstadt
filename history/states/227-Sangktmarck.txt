@@ -1,0 +1,40 @@
+
+state={
+	id=227
+	name="Sangktmarck"
+	provinces={
+		1117 1327 1962 2014 2186 2710 2734 2794 3461 3481 4343 4449 4522 4888 5042 5693 5902 6170 6431 7902 8058 8079 8184 8756 8921 10518 10658 10698 10953 13780 13792 13801 13822 13823 13828 13848 13879 13890 13924 
+	}
+	manpower=3088500
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+	history = {
+		owner = WHI
+		add_core_of = WHI
+		victory_points = {
+			2710 5
+		}
+		victory_points = {
+			8756 5
+		}
+		victory_points = {
+			13822 5
+		}
+		victory_points = {
+			2186 5
+		}
+		victory_points = {
+			10518 5
+		}
+		victory_points = {
+			10698 5
+		}
+		victory_points = {
+			4888 5
+		}
+		victory_points = {
+			13828 5
+		}
+	}
+}

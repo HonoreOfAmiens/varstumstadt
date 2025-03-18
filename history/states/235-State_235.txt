@@ -1,0 +1,14 @@
+state={
+	id=235
+	name="STATE_235"
+	provinces={
+		2065 2172 4089 4293 4575 5368 6771 6809 7661 7920 10188 13758 13775 13798 13814 13858 13872 13876 13901 13911 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+		owner = WSR
+		add_core_of = WSR
+	}
+}

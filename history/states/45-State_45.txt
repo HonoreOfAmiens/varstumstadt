@@ -1,0 +1,14 @@
+state={
+	id=45
+	name="STATE_45"
+	provinces={
+		6 195 404 777 1163 1468 1593 1996 2301 2403 2876 3364 3731 4212 4461 4661 4843 5350 6112 6792 6980 7357 7778 7788 7965 8916 9438 9779 10005 10202 11657 11702 11708 11724 11835 11860 11891 11895 11914 11925 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+		owner = CAE
+		add_core_of = CAE
+	}
+}

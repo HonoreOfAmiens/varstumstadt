@@ -1,0 +1,14 @@
+state={
+	id=329
+	name="STATE_329"
+	provinces={
+		1082 2800 2989 3047 3250 3547 3713 4254 4439 5011 5890 7832 8657 8718 8834 9180 9646 14620 14687 14704 14737 14748 14761 14777 14797 14819 14839 14867 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+		owner = WSR
+		add_core_of = WSR
+	}
+}

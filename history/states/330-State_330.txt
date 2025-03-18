@@ -1,0 +1,16 @@
+
+state={
+	id=330
+	name="STATE_330"
+	provinces={
+		600 1691 2064 2080 2673 3458 3677 3766 5551 6017 6226 6580 6652 7189 7561 8265 9508 9594 9764 10099 10262 10767 11036 15185 15283 15293 15353 15381 15415 15424 15463 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+	history = {
+		owner = MOS
+		add_core_of = MOS
+	}
+}

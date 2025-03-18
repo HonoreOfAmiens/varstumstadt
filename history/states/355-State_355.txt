@@ -1,0 +1,14 @@
+state={
+	id=355
+	name="STATE_355"
+	provinces={
+		6452 10211 14864 14884 
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+	history = {
+		owner = WSR
+		add_core_of = WSR
+	}
+}

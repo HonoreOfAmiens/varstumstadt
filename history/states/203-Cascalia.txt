@@ -1,0 +1,14 @@
+state={
+	id=203
+	name="Cascalia"
+	provinces={
+		1154 3958 6140 
+	}
+	buildings_max_level_factor=1.000
+        manpower=955600
+        state_category = town
+	history = {
+		owner = MST
+		add_core_of = MST
+	}
+}
