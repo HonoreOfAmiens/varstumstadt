@@ -1,11 +1,11 @@
 state={
 	id=158
-	name="STATE_158"
+	name="Laroche"
 	provinces={
 		82 176 466 779 903 1036 1057 2036 2657 2994 3089 3145 3192 3769 3976 4241 4277 4279 4476 4480 4761 5186 5304 5379 5593 6163 6352 7403 7823 8516 8842 9502 9544 10883 12754 12801 12803 12847 12914 12929 12961 
 	}
 	buildings_max_level_factor=1.000
-        manpower=1
+        manpower=1980200
         state_category = town
 	history = {
 		owner = MER
