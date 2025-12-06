@@ -20,7 +20,6 @@ state={
             industrial_complex = 8
             arms_factory = 2
             dockyard = 10
-<<<<<<< HEAD
             5538 = { # I just defaulted this to the one with the most VP... change later if inaccurate!
                 coastal_bunker = 5
                 naval_base = 10
@@ -33,12 +32,6 @@ state={
 			14141 = {
 				naval_base = 7
 			}
-=======
-            #5538 = { # I just defaulted this to the one with the most VP... change later if inaccurate!
-            #    coastal_bunker = 5
-            #    naval_base = 10
-			#}
->>>>>>> 94213501ed71b13abd6646575629a523f0a5f22d
 		}
 
 		owner = WHI
