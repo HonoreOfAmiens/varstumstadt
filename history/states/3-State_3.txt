@@ -1,6 +1,6 @@
 state={
 	id=3
-	name="STATE_3"
+	name="Brunnia"
 	provinces={
 		1475 5105 7810 7928 9086 10662 10709 11242 
 	}
