@@ -1,4 +1,3 @@
-
 state={
 	id=295
 	name="Aelia Septimustriae"
@@ -12,6 +11,11 @@ state={
 	history = {
 		owner = WHI
 		add_core_of = WHI
+
+		buildings = {
+			infrastructure = 4
+		}
+
 		victory_points = { 
 			1480 48 
 		}

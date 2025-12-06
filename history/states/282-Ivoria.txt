@@ -13,12 +13,12 @@ state={
             industrial_complex = 8
             arms_factory = 2
             dockyard = 10
-            7777 = {
+            5538 = { # I just defaulted this to the one with the most VP... change later if inaccurate!
                 coastal_bunker = 5
                 naval_base = 10
-				
 			}
 		}
+
 		owner = WHI
 		add_core_of = WHI
 		

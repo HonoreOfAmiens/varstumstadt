@@ -5,13 +5,19 @@ state={
 	provinces={
 		1089 1184 1668 2059 2116 2882 3100 3692 4259 5274 5291 5602 5762 5874 6639 7256 7294 7653 7676 7692 7757 10138 11057 13657 13694 13729 13741 13742 13746 13769 
 	}
-	manpower= 12,540,500
+	manpower=12540500
 	buildings_max_level_factor=1.000
 	state_category=town
 	local_supplies=0.000
 	history = {
 		owner = WHI
 		add_core_of = WHI
+
+		buildings = {
+			infrastructure = 4
+			
+		}
+
 		victory_points = {
 			13769 8
 		}

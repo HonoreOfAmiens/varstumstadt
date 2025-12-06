@@ -11,5 +11,9 @@ state={
 	history = {
 		owner = WHI
 		add_core_of = WHI
+
+		buildings = {
+			infrastructure = 3
+		}
 	}
 }

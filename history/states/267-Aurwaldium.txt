@@ -5,11 +5,16 @@ state={
 		3822 5401 6699 14065 14090  
 	}
 	buildings_max_level_factor=1.000
-        manpower=10508000
-        state_category = town
+    manpower=10508000
+    state_category = town
 	history = {
 		owner = WHI
 		add_core_of = WHI
+
+		buildings = {
+			infrastructure = 4
+		}
+
 		victory_points = {
 			14090 23
 		}

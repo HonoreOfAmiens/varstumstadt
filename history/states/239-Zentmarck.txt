@@ -5,11 +5,16 @@ state={
 		917 2732 2931 3123 4684 6284 6324 6456 7130 8466 8751 8996 9698 10311 13839 13908 13940 13967 13984 13999 
 	}
 	buildings_max_level_factor=1.000
-        manpower=1033000
-        state_category = rural
+    manpower=1033000
+    state_category = rural
 	history = {
 		owner = WHI
 		add_core_of = WHI
+
+		buildings = {
+			infrastructure = 3
+		}
+
 		victory_points = {
 			10311 3
 		}
