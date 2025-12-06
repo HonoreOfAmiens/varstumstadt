@@ -4,10 +4,20 @@ state={
 	provinces={
 		5538 10091 14130 14141 14155 14108
 	}
-	buildings_max_level_factor=1.000
+	buildings_max_level_factor=2.000
         manpower=175547000
         state_category = megalopolis
 	history = {
+		buildings = {
+            infrastructure = 3
+            industrial_complex = 8
+            arms_factory = 2
+            dockyard = 10
+            7777 = {
+                coastal_bunker = 5
+                naval_base = 10
+				
+			}
 		owner = WHI
 		add_core_of = WHI
 		victory_points = { 
@@ -26,4 +36,5 @@ state={
 			14155 18 
 		}
 	}
+}
 }

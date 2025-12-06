@@ -1,12 +1,12 @@
 state={
 	id=297
-	name="STATE_297"
+	name="Luminae"
 	provinces={
 		4147 5389 7839 9164 14207 
 	}
 	buildings_max_level_factor=1.000
-        manpower=1
-        state_category = town
+        manpower=75450500
+        state_category = megalopolis
 	history = {
 		owner = TEN
 		add_core_of = TEN
