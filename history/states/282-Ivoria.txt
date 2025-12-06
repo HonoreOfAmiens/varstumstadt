@@ -5,8 +5,8 @@ state={
 		5538 10091 14130 14141 14155 14108
 	}
 	buildings_max_level_factor=2.000
-        manpower=175547000
-        state_category = megalopolis
+    manpower=175547000
+    state_category = megalopolis
 	history = {
 		buildings = {
             infrastructure = 3
