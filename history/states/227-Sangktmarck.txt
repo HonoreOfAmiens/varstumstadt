@@ -9,12 +9,22 @@ state={
 	buildings_max_level_factor=1.000
 	state_category=town
 	local_supplies=0.000
+
+	resources = {
+		steel = 4
+		chromium = 2
+		oil = 2
+	}
+
 	history = {
 		owner = WHI
 		add_core_of = WHI
 
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
+			2734 = {
+				naval_base = 7
+			}
 		}
 
 		victory_points = {

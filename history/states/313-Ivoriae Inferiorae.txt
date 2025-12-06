@@ -8,6 +8,13 @@ state={
 	buildings_max_level_factor=1.000
 	state_category=town
 	local_supplies=0.000
+
+	resources = {
+		aluminium = 8
+		steel = 4
+		chromium = 6
+	}
+
 	history = {
 		owner = WHI
 		add_core_of = WHI

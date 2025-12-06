@@ -12,7 +12,7 @@ state={
 		add_core_of = WHI
 	
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 			7274 = {
 				naval_base = 10
 			}
