@@ -4,23 +4,41 @@ state={
 	provinces={
 		5538 10091 14130 14141 14155 14108
 	}
-	buildings_max_level_factor=2.000
-        manpower=175547000
-        state_category = megalopolis
+	buildings_max_level_factor=1.000
+    manpower=175547000
+    state_category = megalopolis
+
+	resources = {
+		steel = 6
+		chromium = 1
+		aluminium = 2
+	}
+
 	history = {
 		buildings = {
-            infrastructure = 3
+            infrastructure = 4
             industrial_complex = 8
             arms_factory = 2
             dockyard = 10
-            7777 = {
+            5538 = { # I just defaulted this to the one with the most VP... change later if inaccurate!
                 coastal_bunker = 5
                 naval_base = 10
-				
+			}
+
+			14130 = {
+				naval_base = 4
+			}
+
+			14141 = {
+				naval_base = 7
 			}
 		}
+
 		owner = WHI
 		add_core_of = WHI
+
+		# Just for testing... IT WORKS!
+		add_extra_state_shared_building_slots = 14
 		
 		victory_points = { 
 			5538 50 

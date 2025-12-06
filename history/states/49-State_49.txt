@@ -1,3 +1,4 @@
+## This state is up for adoption, looking for an owner!
 state={
 	id=49
 	name="STATE_49"

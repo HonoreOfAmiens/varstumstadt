@@ -5,11 +5,25 @@ state={
 		351 515 516 4008 4966 6663 6728 7390 9142 9691 9971 10140 10185 10459 10468 10854 13889 13913 
 	}
 	buildings_max_level_factor=1.000
-        manpower= 4670000
-        state_category = rural
+    manpower= 4670000
+    state_category = rural
+
+	resources = {
+		tungsten = 8
+		chromium = 1
+	}
+
 	history = {
 		owner = WHI
 		add_core_of = WHI
+
+		buildings = {
+			infrastructure = 2
+			516 = {
+				naval_base = 10
+			}
+		}
+
 		victory_points = {
 			10459 15
 		}
