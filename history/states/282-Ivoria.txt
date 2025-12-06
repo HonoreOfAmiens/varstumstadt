@@ -21,7 +21,7 @@ state={
 		}
 		owner = WHI
 		add_core_of = WHI
-		}
+		
 		victory_points = { 
 			5538 50 
 		}
@@ -37,4 +37,5 @@ state={
 		victory_points = { 
 			14155 18 
 		}
+	}
 }
