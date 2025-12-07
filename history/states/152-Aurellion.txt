@@ -1,12 +1,12 @@
 state={
 	id=152
-	name="STATE_152"
+	name="Aurellion"
 	provinces={
 		484 744 1241 1369 1630 1931 2429 2897 3400 4020 4526 5393 5555 5644 5992 6687 6705 6740 6753 6783 7047 7181 7517 7917 8076 8188 8330 8333 9754 10039 10536 10981 11203 12667 12672 12700 12727 12730 12783 12792 12813 12820 12825 12828 12834 12843 12877 12893 12990 
 	}
 	buildings_max_level_factor=1.000
-        manpower=1
-        state_category = town
+        manpower=13550100
+        state_category = urban
 	history = {
 		owner = MER
 		add_core_of = MER

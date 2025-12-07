@@ -1,13 +1,13 @@
 
 state={
 	id=144
-	name="STATE_144"
+	name="Verdantia"
 	provinces={
 		7344 12962 12967 
 	}
-	manpower=1
+	manpower=15659100
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=megalopolis
 	local_supplies=0.000
 	history = {
 		owner = VER

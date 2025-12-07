@@ -1,14 +1,24 @@
 state={
 	id=146
-	name="STATE_146"
+	name="Sancourt"
 	provinces={
 		229 548 837 1295 1552 1674 1925 2234 2496 2538 2888 3114 3448 3866 3965 4046 4160 4330 4388 4499 4863 5013 5111 5225 5241 5317 5704 5755 5835 6074 6269 6832 6887 6935 7069 7773 8041 8148 8410 8457 9636 9913 9923 10055 10122 10268 10290 10398 10799 10927 12569 12576 12598 12686 12692 12732 12794 12849 12895 12930 12936 12956 12959 12960 12972 
 	}
 	buildings_max_level_factor=1.000
-    manpower=346500
-    state_category = town
+        manpower=946500
+        state_category = large_city
 	history = {
 		owner = MER
 		add_core_of = MER
+
+		victory_points = {
+			8148 20
+		}
+		victory_points = {
+			4388 15
+		}
+		victory_points = {
+			10927 38
+		}
 	}
 }

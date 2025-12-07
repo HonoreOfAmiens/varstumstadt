@@ -1,12 +1,12 @@
 state={
 	id=190
-	name="STATE_190"
+	name="Sarmavol"
 	provinces={
 		108 125 823 1377 1472 1624 1921 3524 4005 4427 4543 4992 5002 5143 6636 7024 7744 7931 8166 8324 8474 8536 8644 8709 8876 9166 10260 11127 13321 13331 13352 13369 13421 13443 13454 13464 13498 
 	}
 	buildings_max_level_factor=1.000
-        manpower=1
-        state_category = town
+        manpower=6340030
+        state_category = urban
 	history = {
 		owner = MER
 		add_core_of = MER

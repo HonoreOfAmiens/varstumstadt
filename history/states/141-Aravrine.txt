@@ -1,14 +1,20 @@
 state={
 	id=141
-	name="STATE_141"
+	name="Aravrine"
 	provinces={
 		183 1395 1679 1800 1874 2093 2228 2840 3105 3239 3912 6153 6592 6936 7280 7293 7324 7508 7738 8239 8467 10128 10243 10408 10483 10932 12523 12630 12643 12651 12697 12892 
 	}
 	buildings_max_level_factor=1.000
-        manpower=1
-        state_category = town
+        manpower=838900
+        state_category = rural
 	history = {
 		owner = MER
 		add_core_of = MER
+	victory_points = {
+		12643 25
+	}
+	victory points = {
+		6153 9
+	}
 	}
 }
