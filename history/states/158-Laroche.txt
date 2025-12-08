@@ -10,5 +10,14 @@ state={
 	history = {
 		owner = MER
 		add_core_of = MER
+	victory_points = {
+		1057 34
+	}
+	victory_points = {
+		903 27
+	}
+	victory_points = {
+		2994 32
+	}
 	}
 }

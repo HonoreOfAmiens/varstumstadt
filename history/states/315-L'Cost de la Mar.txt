@@ -1,6 +1,6 @@
 state={
 	id=315
-	name="STATE_315"
+	name="L'Côst de la Mar"
 	provinces={
 		6706 8893 14342 
 	}
@@ -10,5 +10,14 @@ state={
 	history = {
 		owner = MER
 		add_core_of = MER
+	victory_points = {
+		8893 31
+	}
+	victory_points = {
+		6706 27
+	}
+	victory_points = {
+		14342 28
+	}
 	}
 }
