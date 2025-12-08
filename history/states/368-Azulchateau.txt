@@ -7,9 +7,12 @@ state={
 	}
 	buildings_max_level_factor=1.000
         manpower=1450000
-        state_category = town
+        state_category = metropolis
 	history = {
 		owner = MER
 		add_core_of = MER
+	victory_points = {
+		8499 55
+	}
 	}
 }

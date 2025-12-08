@@ -6,9 +6,18 @@ state={
 	}
 	buildings_max_level_factor=1.000
         manpower=13550100
-        state_category = urban
+        state_category = large_city
 	history = {
 		owner = MER
 		add_core_of = MER
+	victory_points = {
+		12700 13
+	}
+	victory_points = {
+		12834 15
+	}
+	victory_points = {
+		8076 21
+	}
 	}
 }
