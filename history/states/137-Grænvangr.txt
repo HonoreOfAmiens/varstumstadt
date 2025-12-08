@@ -1,6 +1,6 @@
 state={
 	id=137
-	name="STATE_137"
+	name="Grænvangr"
 	provinces={
 		6312 7117 8543 9771 12507 12525 
 	}

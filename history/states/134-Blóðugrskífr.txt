@@ -1,12 +1,12 @@
 state={
-	id=122
-	name="STATE_122"
+	id=134
+	name="Blóðugrskífr"
 	provinces={
-		4682 5711 6839 8737 12261 
+		1710 2018 3967 12470 
 	}
 	buildings_max_level_factor=1.000
-        manpower=1
-        state_category = town
+    manpower=21456322
+    state_category = town
 	history = {
 		owner = NLM
 		add_core_of = NLM
