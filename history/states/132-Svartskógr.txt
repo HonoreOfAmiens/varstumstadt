@@ -1,14 +1,28 @@
 state={
 	id=132
 	name="Svartskógr"
+
 	provinces={
 		718 887 2052 3232 3638 3880 6803 6985 6995 7525 8982 12429 12436 12452 12499 
 	}
+
 	buildings_max_level_factor=1.000
-        manpower=1
-        state_category = town
+    manpower=1
+
+    state_category = town
+
 	history = {
 		owner = NLM
 		add_core_of = NLM
+
+		buildings = {
+			12452 = {
+				bunker = 2
+			}
+
+			6803 = {
+				bunker = 2
+			}
+		}
 	}
 }

@@ -1,14 +1,33 @@
 state={
 	id=134
 	name="Blóðugrskífr"
+
 	provinces={
 		1710 2018 3967 12470 
 	}
+
 	buildings_max_level_factor=1.000
     manpower=21456322
+
     state_category = town
+	
 	history = {
 		owner = NLM
 		add_core_of = NLM
+		
+		buildings = {
+			1710 = {
+				bunker = 2
+			}
+			12470 = {
+				bunker = 2
+			}
+			3967 = {
+				bunker = 2
+			}
+			2018 = {
+				bunker = 2
+			}
+		}
 	}
 }
