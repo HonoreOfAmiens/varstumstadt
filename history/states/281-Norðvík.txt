@@ -2,15 +2,36 @@
 state={
 	id=281
 	name="Norðvík"
+
 	provinces={
 		691 1889 4126 7979 10855 10918 11055 12189 
 	}
+
 	manpower=1
+
 	buildings_max_level_factor=1.000
 	state_category=town
+
 	local_supplies=0.000
+
 	history = {
 		owner = NLM
 		add_core_of = NLM
+
+		buildings = {
+			7979 = {
+				naval_base = 7
+			}
+
+			1889 = {
+				supply_node = 1
+			}
+
+			industrial_complex = 2
+		}
+
+		victory_points = {
+			7979 6
+		}
 	}
 }

@@ -17,8 +17,16 @@ state={
 
 		buildings = {
 			4682 = {
-				bunker = 2
+				bunker = 4
 			}
+
+			5711 = {
+				naval_base = 10
+			}
+		}
+
+		victory_points = {
+			5711 12
 		}
 	}
 }

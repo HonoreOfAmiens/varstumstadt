@@ -10,24 +10,33 @@ state={
     manpower=21456322
 
     state_category = town
-	
+
 	history = {
 		owner = NLM
 		add_core_of = NLM
 		
 		buildings = {
 			1710 = {
-				bunker = 2
+				bunker = 4
+				supply_node = 1
 			}
 			12470 = {
-				bunker = 2
+				bunker = 4
 			}
 			3967 = {
-				bunker = 2
+				bunker = 4
 			}
 			2018 = {
-				bunker = 2
+				bunker = 4
+				supply_node = 1
 			}
+
+			industrial_complex = 1
+			arms_factory = 1
+		}
+
+		victory_points = {
+			2018 16
 		}
 	}
 }

@@ -12,18 +12,33 @@ state={
 
 	state_category=town
 	local_supplies=0.000
-	
+
 	history = {
 		owner = NLM
 		add_core_of = NLM
 
 		buildings = {
 			3590 = {
-				bunker = 2
+				bunker = 4
 			}
+
 			2182 = {
-				bunker = 2
+				bunker = 4
 			}
+
+			4686 = {
+				supply_node = 1
+			}
+
+			industrial_complex = 3
+		}
+
+		victory_points = {
+			10571 8
+		}
+
+		victory_points = {
+			12402 10
 		}
 	}
 }

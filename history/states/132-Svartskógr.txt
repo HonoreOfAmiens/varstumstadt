@@ -17,12 +17,23 @@ state={
 
 		buildings = {
 			12452 = {
-				bunker = 2
+				bunker = 4
 			}
 
 			6803 = {
-				bunker = 2
+				bunker = 4
 			}
+
+			6995 = {
+				supply_node = 1
+			}
+
+			arms_factory = 3
+			industrial_complex = 2
+		}
+
+		victory_points = {
+			7995 6
 		}
 	}
 }

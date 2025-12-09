@@ -1,7 +1,7 @@
 state={
 	id=137
 	name="Grænvangr"
-	
+
 	provinces={
 		6312 7117 8543 9771 12507 12525 
 	}
@@ -17,24 +17,33 @@ state={
 
 		buildings = {
 			8543 = {
-				bunker = 2
-			}
-			12507 = {
-				bunker = 3
-			}
-			9771 = {
-				bunker = 3
-			}
-			12525 = {
-				bunker = 3
-			}
-			7117 = {
-				bunker = 3
-			}
-			6312 = {
-				bunker = 3
+				bunker = 4
 			}
 
+			12507 = {
+				bunker = 5
+			}
+
+			9771 = {
+				bunker = 5
+			}
+
+			12525 = {
+				bunker = 5
+			}
+
+			7117 = {
+				bunker = 6
+				supply_node = 1
+			}
+
+			6312 = {
+				bunker = 5
+			}
+		}
+
+		victory_points = {
+			7117 12
 		}
 	}
 }
