@@ -6,6 +6,7 @@ set_war_support = 0.5
 set_oob = "standard_templates"
 
 add_ideas = {
+	meracia_emaciated_economy
 }
 set_technology = {
 	infantry_weapons = 1
@@ -23,21 +24,7 @@ set_popularities = {
 	democratic = 67
 	neutrality = 3
 }
-create_country_leader = {
-	name = "Elóîs de Monteclaire"
-    	portraits = {
-       		 civilian = {
-            			large = GFX_portrait_CAE_Thasilios_III.dds
-        		}
-    		}
-	desc = ""
-	ideology = despotism
-	traits ={
-	}
-}
-	
-	
-
+recruit_character = MER_Elois_Monteclaire
 recruit_character = TST_1_advisor_civilian
 recruit_character = TST_2_advisor_civilian
 recruit_character = TST_3_advisor_civilian

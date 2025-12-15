@@ -1,0 +1,31 @@
+ideas = {
+    country = {
+        meracia_emaciated_economy = {
+            picture = meracia_emaciated_economy
+            allowed = {
+                tag = MER
+            }
+            available = {
+
+            }
+            cancel = {
+
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+            modifier = {
+                consumer_goods_factor = 0.5
+                civilian_factory_construction_speed = -0.25
+                military_factory_construction_speed = -0.50
+                dockyard_construction_speed = -0.25
+                industrial_capacity_factory = -0.25
+                infrastructure_construction_speed = -0.5
+                factory_output_efficiency_retention = -0.18
+                production_factory_efficiency_gain_factor = -0.15
+                production_speed_buildings_factor = -0.10
+            }
+        }
+    }
+}

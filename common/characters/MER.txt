@@ -1,0 +1,13 @@
+characters = {
+    MER_Elois_Monteclaire = {
+            name = "Elois Monteclaire"
+            portraits = {
+        		civilian = {
+            			large = GFX_portrait_MER_Elois_Monteclaire
+        		}
+    		}
+            country_leader = {
+		        ideology = conservatism
+		}
+    }
+}

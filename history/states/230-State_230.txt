@@ -1,12 +1,12 @@
 state={
 	id=230
-	name="STATE_230"
+	name="Céléronne-sur-Brise"
 	provinces={
-		15502 
+		5027 
 	}
 	buildings_max_level_factor=1.000
-        manpower=1
-        state_category = town
+        manpower=13040900
+        state_category = megalopolis
 	history = {
 		owner = MER
 		add_core_of = MER
